@@ -101,5 +101,4 @@ Cited from: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by
 - **API Errors:**  
   Double-check your credentials in the `.env` file.
 
----
 
