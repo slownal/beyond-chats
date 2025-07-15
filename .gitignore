@@ -70,7 +70,6 @@ coverage.xml
 
 # output files
 output/
-*.txt
 reddit_personas/
 
 # OS files
