@@ -103,10 +103,3 @@ Cited from: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by
 
 ---
 
-## License
-
-MIT License
-
----
-
-**Enjoy generating Reddit user personas!** 
